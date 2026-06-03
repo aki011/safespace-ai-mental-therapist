@@ -37,32 +37,23 @@ In critical situations, SafeSpace can trigger emergency communication workflows 
 ✅ Secure API key handling with `.env`
 
 ---
-
 ## 🖼️ Project Screenshots
 
 ### 💬 Chat Interface
 
-Add your screenshot here:
-
-```md
 ![Chat UI](images/chat-ui.png)
-```
 
 ---
 
 ### 🚨 Emergency Detection System
 
-```md
 ![Emergency System](images/emergency.png)
-```
 
 ---
 
 ### 🧠 AI Therapist Conversation
 
-```md
 ![AI Therapist](images/therapist.png)
-```
 
 ---
 
